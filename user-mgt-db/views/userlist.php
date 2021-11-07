@@ -43,7 +43,7 @@
 					<td><?=$data['password']?></td>
 					<td><?=$data['email']?></td>
 					<td>
-						<a href="edit.php">EDIT</a> |
+						<a href="edit.php?id=<?=$data['id']?>">EDIT</a> |
 						<a href="delete.php?id=1">DELETE</a> 
 					</td>
 				</tr>
