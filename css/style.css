@@ -1,0 +1,42 @@
+#div1, #div3 {
+	/*position: absolute;
+	top: 0px;
+	left: 0px;*/
+	margin: 10px 5px, 20px, 10px;
+	/*12pm->top
+	3pm->right
+	6pm-> bottom;
+	9pm->left;*/
+
+	/*margin-top: ;
+	margin-right: ;
+	margin-bottom: ;
+	margin-left: ;*/
+
+	width: 350px; 
+	height: 220px;
+	background: green; 
+	border: 1px solid #000
+}
+
+#div2 {
+	/*position: absolute;
+	left: 500px;
+	top: 0px;*/
+	padding: 20px;
+	
+	width: 100px; 
+	height: 100px;
+	background: red; 
+	border: 1px solid #000;
+	/*border-radius: 100px;*/
+}
+
+
+.c1 {
+	margin: 10px 5px, 20px, 10px;
+	width: 350px; 
+	height: 220px;
+	background: green; 
+	border: 1px solid #000
+}
